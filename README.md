@@ -1,7 +1,7 @@
 
 # Data Science Masters 2.0 Course Completion
 
-![Data Science](https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00)
+![Data Science](https://www.google.com/imgres?q=data%20science%20unsplash&imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599658880436-c61792e70672%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGF0YSUyMHNjaWVudGlzdHxlbnwwfHwwfHx8MA%253D%253D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdata-scientist&docid=1oXGiJ0lHMqQ4M&tbnid=Q4fs1GG9ASvOxM&vet=12ahUKEwibmd7N5OGFAxWyzzgGHffjDIcQM3oECDAQAA..i&w=1000&h=667&hcb=2&ved=2ahUKEwibmd7N5OGFAxWyzzgGHffjDIcQM3oECDAQAA)
 
 ## Overview
 
