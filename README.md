@@ -1,7 +1,7 @@
 
 # Data Science Masters 2.0 Course Completion
 
-![Data Science](https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8)
+![Data Science](https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00)
 
 ## Overview
 
